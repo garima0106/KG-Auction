@@ -5,7 +5,7 @@
 Reference: [Bertsekas, D.P. New Auction Algorithms for Path Planning, Network Transport, and Reinforce- 623
 ment Learning] (https://arxiv.org/abs/2207.09588).
 
-In this research work, we propose the use of new auction algorithms for question answering over knowledge graphs.
+In this research work, we propose the use of new auction algorithms for question answering over knowledge graphs for single and multiple destination queries. This method can also answer multi-hop queries and give interpretable explanation.
 
 ### Question Answering in knowledge Grraphs using Auction Algorithms
 
